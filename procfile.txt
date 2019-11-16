@@ -1,4 +1,2 @@
-//Vivek
 python flappy.py
-test
 
